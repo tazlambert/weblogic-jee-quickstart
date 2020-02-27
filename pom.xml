@@ -21,8 +21,8 @@
         <maven.deploy.skip>true</maven.deploy.skip>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- WebLogic -->
-        <version.wls.server.pom>12.2.1-0-0</version.wls.server.pom>
-        <version.wls.maven.plugin>12.2.1-0-0</version.wls.maven.plugin>
+        <version.wls.server.pom>12.2.1-4-0</version.wls.server.pom>
+        <version.wls.maven.plugin>12.2.1-4-0</version.wls.maven.plugin>
     </properties>
 
     <modules>
